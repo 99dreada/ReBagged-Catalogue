@@ -1,10 +1,10 @@
 {
-  "catalogue_version": 3,
+  "catalogue_version": 4,
   "schema_version": 1,
-  "built_at": "2026-09-07T22:23:24.429862+00:00",
-  "database": "rebagged-catalogue-v3.db",
-  "size": 98304,
-  "sha256": "e97abc890fb8ff979ba1fdba87517bc0d75587d8cf6c10895602f5bcbb84acb2",
-  "verified_sets": 1,
+  "built_at": "2026-09-07T23:46:31.155585+00:00",
+  "database": "rebagged-catalogue-v4.db",
+  "size": 176128,
+  "sha256": "0d5402ce6e40f1a8da2a5c230ef3cb463f3ae5f7da3a1a74865ea4660d7664b7",
+  "verified_sets": 2,
   "status": "published"
 }
