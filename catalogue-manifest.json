@@ -1,8 +1,10 @@
 {
+  "catalogue_version": 3,
   "schema_version": 1,
-  "catalogue_version": 0,
-  "status": "not_published",
-  "database": null,
-  "sha256": null,
-  "published_at": null
+  "built_at": "2026-09-07T22:23:24.429862+00:00",
+  "database": "rebagged-catalogue-v3.db",
+  "size": 98304,
+  "sha256": "e97abc890fb8ff979ba1fdba87517bc0d75587d8cf6c10895602f5bcbb84acb2",
+  "verified_sets": 1,
+  "status": "published"
 }
