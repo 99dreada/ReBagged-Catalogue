@@ -9,12 +9,10 @@
       "year": 2023,
       "image_url": "/app/data/catalogue/images/42159-1.jpg",
       "bsx_schema_version": 1,
-      "revision": "r1",
-      "bsx": "sets/42159-1/r1.bsx",
-      "latest": "sets/42159-1/latest.bsx",
+      "bsx": "sets/42159-1.bsx",
       "sha256": "7108fc8d5f053443fd1d0bcfa114ff837a361273e673a545c4d3de60f5ceba6d",
       "item_rows": 427,
       "published_at": "2026-11-02T11:05:06.192053+00:00"
     }
   ]
-}
+}\n
