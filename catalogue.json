@@ -1,7 +1,7 @@
 {
   "format": "ReBagged Public Catalogue",
   "schema_version": 1,
-  "generated_at": "2026-11-02T14:28:47.890566+00:00",
+  "generated_at": "2026-11-02T15:25:33.470818+00:00",
   "sets": [
     {
       "set_num": "10333-1",
@@ -13,6 +13,17 @@
       "sha256": "df69721b61c3f9d7f4d1474b3d3b461d00682a3afde3c55ffcebc2dfcdf18677",
       "item_rows": 1793,
       "published_at": "2026-11-02T14:28:47.890566+00:00"
+    },
+    {
+      "set_num": "42159-1",
+      "name": "Yamaha MT-10 SP",
+      "year": 2023,
+      "image_url": "/app/data/catalogue/images/42159-1.jpg",
+      "bsx_schema_version": 1,
+      "bsx": "sets/42159-1.bsx",
+      "sha256": "7108fc8d5f053443fd1d0bcfa114ff837a361273e673a545c4d3de60f5ceba6d",
+      "item_rows": 427,
+      "published_at": "2026-11-02 11:05:06"
     },
     {
       "set_num": "75308-1",
