@@ -1,18 +1,95 @@
 {
   "format": "ReBagged Public Catalogue",
   "schema_version": 1,
-  "generated_at": "2026-11-02T11:05:06.192053+00:00",
+  "generated_at": "2026-11-02T14:28:47.890566+00:00",
   "sets": [
     {
-      "set_num": "42159-1",
-      "name": "Yamaha MT-10 SP",
-      "year": 2023,
-      "image_url": "/app/data/catalogue/images/42159-1.jpg",
+      "set_num": "10333-1",
+      "name": "The Lord of the Rings: Barad-d\u00fbr",
+      "year": 2024,
+      "image_url": "/app/data/catalogue/images/10333-1.jpg",
       "bsx_schema_version": 1,
-      "bsx": "sets/42159-1.bsx",
-      "sha256": "7108fc8d5f053443fd1d0bcfa114ff837a361273e673a545c4d3de60f5ceba6d",
-      "item_rows": 427,
-      "published_at": "2026-11-02T11:05:06.192053+00:00"
+      "bsx": "sets/10333-1.bsx",
+      "sha256": "df69721b61c3f9d7f4d1474b3d3b461d00682a3afde3c55ffcebc2dfcdf18677",
+      "item_rows": 1793,
+      "published_at": "2026-11-02T14:28:47.890566+00:00"
+    },
+    {
+      "set_num": "75308-1",
+      "name": "R2-D2",
+      "year": 2021,
+      "image_url": "/app/data/catalogue/images/75308-1.jpg",
+      "bsx_schema_version": 1,
+      "bsx": "sets/75308-1.bsx",
+      "sha256": "ba9412532de4c617de20743c1c80baa00f05d89e5b1300c4f45db46974604a9d",
+      "item_rows": 600,
+      "published_at": "2026-11-02T14:28:47.890566+00:00"
+    },
+    {
+      "set_num": "75331-1",
+      "name": "The Razor Crest",
+      "year": 2022,
+      "image_url": "/app/data/catalogue/images/75331-1.jpg",
+      "bsx_schema_version": 1,
+      "bsx": "sets/75331-1.bsx",
+      "sha256": "fcb79c92e5c1e88abc5cb6bd8b272bdaa9c8781eb0635b5c7a5807d94f9f7e80",
+      "item_rows": 1843,
+      "published_at": "2026-11-02T14:28:47.890566+00:00"
+    },
+    {
+      "set_num": "75355-1",
+      "name": "X-Wing Starfighter",
+      "year": 2023,
+      "image_url": "/app/data/catalogue/images/75355-1.jpg",
+      "bsx_schema_version": 1,
+      "bsx": "sets/75355-1.bsx",
+      "sha256": "aa88a7d14e22f5e2ead995e433b6d6c69e422c196204e4b6ca5b29da499f15e9",
+      "item_rows": 742,
+      "published_at": "2026-11-02T14:28:47.890566+00:00"
+    },
+    {
+      "set_num": "75367-1",
+      "name": "Venator-Class Republic Attack Cruiser",
+      "year": 2023,
+      "image_url": "/app/data/catalogue/images/75367-1.jpg",
+      "bsx_schema_version": 1,
+      "bsx": "sets/75367-1.bsx",
+      "sha256": "e12c4dfa63e9d436fd38c4bc80c38c534253ed3359a5eb3af5a66ca403256496",
+      "item_rows": 1509,
+      "published_at": "2026-11-02T14:28:47.890566+00:00"
+    },
+    {
+      "set_num": "75381-1",
+      "name": "Droideka",
+      "year": 2024,
+      "image_url": "/app/data/catalogue/images/75381-1.jpg",
+      "bsx_schema_version": 1,
+      "bsx": "sets/75381-1.bsx",
+      "sha256": "2654ae0285d6924599b5c151c284254d8a4cc501a781092a2eab4d96a20f259b",
+      "item_rows": 269,
+      "published_at": "2026-11-02T14:28:47.890566+00:00"
+    },
+    {
+      "set_num": "75398-1",
+      "name": "C-3PO",
+      "year": 2024,
+      "image_url": "/app/data/catalogue/images/75398-1.jpg",
+      "bsx_schema_version": 1,
+      "bsx": "sets/75398-1.bsx",
+      "sha256": "a49a36d7610991528c12f3baf98fbec4a187e3003821f0525c1affe78404a65b",
+      "item_rows": 475,
+      "published_at": "2026-11-02T14:28:47.890566+00:00"
+    },
+    {
+      "set_num": "75419-1",
+      "name": "Death Star",
+      "year": 2025,
+      "image_url": "/app/data/catalogue/images/75419-1.jpg",
+      "bsx_schema_version": 1,
+      "bsx": "sets/75419-1.bsx",
+      "sha256": "211be4220f4490ed537f1460506051095e640ff940f7d456e2e813d328a268ed",
+      "item_rows": 3145,
+      "published_at": "2026-11-02T14:28:47.890566+00:00"
     }
   ]
 }\n
